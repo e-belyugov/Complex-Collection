@@ -94,6 +94,9 @@ namespace TestTask
                 Console.WriteLine("[.. , " + nameToSearch2.ToString() + "] " + value2.ToString());
             }
 
+            // ----------------------------------------------------
+            // Коллекция с использованием UserType
+
             Console.WriteLine();
             Console.WriteLine("Нажмите любую клавишу для выхода..");
             Console.ReadKey();
